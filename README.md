@@ -9,10 +9,8 @@ O **WeatherNow** utiliza a [Open-Meteo API](https://open-meteo.com/) — uma API
 ## 🖼️ Demonstração
 
 <p align="center">
-  <img src="../weathernow/public/screen.png" alt="Demonstração do WeatherNow" width="600"/>
+  <img src="./public/screen.png" alt="Demonstração do WeatherNow" width="600"/>
 </p>
-
-_(adicione aqui um print ou gif da aplicação rodando)_
 
 ---
 
